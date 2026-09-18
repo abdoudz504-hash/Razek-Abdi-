@@ -1,0 +1,7 @@
+{
+  "name": "Rz Tasyir",
+  "description": "تطبيق تسيير المحلات التجارية: المبيعات ونقاط البيع، المخزون، ديون العملاء، المصاريف والتقارير المالية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
